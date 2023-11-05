@@ -1,0 +1,79 @@
+/* <!-- Welcome to Becodewala --> */
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #031541;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  form {
+    display: flex;
+    align-items: center;
+  }
+  
+  input[type="text"] {
+    border: none;
+    background-color: #ccc;
+    padding: 10px;
+    margin-right: 10px;
+    width: 300px;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  button[type="submit"] {
+    border: none;
+    background-color: #ccc;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #ddd;
+  
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .movie {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .poster-img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease-in-out;
+  }
+  .green{
+    color: green;
+  }
+  .orange{
+    color: orange;
+  }
+  .red{
+    color: red;
+  }
+  
+ /*  <!--  Created by becodewala-2023 --> */
