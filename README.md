@@ -2,7 +2,7 @@
 
 
 ### Click below link to see live demo for our project🔗
-[https://youtube-thumbnail-becodewala.netlify.app/](https://movie-app-becodewala.netlify.app/)
+https://movie-app-becodewala.netlify.app/
 
 
 ## **Click on below image to watch tutorial** 👇
